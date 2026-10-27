@@ -1,1 +1,3 @@
-# Latent_Twin_for_atmospheric_sounding
+# Latent Twin for atmospheric sounding
+
+Just a repo
