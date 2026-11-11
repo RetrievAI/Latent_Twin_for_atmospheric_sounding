@@ -1,0 +1,43 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated publications."
+title: "Latent Twin for Atmospheric Sounding"
+type: software
+
+authors:
+  - family-names: Sgattoni
+    given-names: Cristina
+
+references:
+  - type: article
+    authors:
+      - family-names: Sgattoni
+        given-names: Cristina
+      - family-names: Sgheri
+        given-names: Luca
+      - family-names: Chung
+        given-names: Matthias
+      - family-names: Martinazzo
+        given-names: Michele
+    title: "Latent twins: a framework for scene recognition and fast radiative transfer inversion in FORUM all-sky observations"
+    journal: "Scientific Reports"
+    year: 2026
+    doi: "10.1038/s41598-026-57822-6"
+
+  - type: conference-paper
+    authors:
+      - family-names: Martinazzo
+        given-names: Michele
+      - family-names: Sgattoni
+        given-names: Cristina
+      - family-names: Menarini
+        given-names: Marco
+      - family-names: Zugarini
+        given-names: Chiara
+      - family-names: Maestri
+        given-names: Tiziano
+      - family-names: Sgheri
+        given-names: Luca
+    title: "A latent twins architecture for robust clear-sky retrieval from IASI acquisitions"
+    year: 2026
+    doi: "10.1117/12.3119073"
